@@ -30,6 +30,7 @@ fraud-detection/
 - NumPy
 - pandas
 - scikit-learn
+- jupiter notebook
 
 Install dependencies:
 
